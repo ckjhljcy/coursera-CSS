@@ -1,0 +1,25 @@
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -30px;
+}
+
+#head_nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+
+#nav-list a{
+	text-align: center;
+}
+
+#main-content-para {
+	margin-bottom: 50px;
+	padding: 10px;
+}
+
+#main-content-para div {
+	background-color: #d9edf7;
+	padding: 20px;
+}
